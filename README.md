@@ -14,3 +14,6 @@ Format PS3 HDD to add OtherOS region.<br>Downloads the LiveCD and copy the files
 [kernaltrap](https://github.com/kernaltrap8): Original idea, lead developer
 
 [Hydrogen (Ellie)](https://github.com/Hydrogen8): Ideas, second lead developer
+
+# Credit
+[damiandudycz](https://github.com/damiandudycz): Getting Gentoo working as well as it does on the Playstation 3
